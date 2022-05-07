@@ -9,17 +9,17 @@ header:
   image_fullwidth: banner.jpg
 widget1:
   title: "Blog"
-  url: 'http://forgedbyadria.com/blog/'
+  url: 'https://forgedbyadria.com/blog/'
   image: studio_0-thumb.jpg
   text: "Explore Adria's thoughts on jewelry making"
 widget2:
   title: "Jewelry Gallery"
-  url: 'http://forgedbyadria.com/gallery/'
+  url: 'https://forgedbyadria.com/gallery/'
   image: gallery-thumb.jpg
   text: "Explore works Forged by Adria"
 widget3:
   title: "About"
-  url: 'http://forgedbyadria.com/about/'
+  url: 'https://forgedbyadria.com/about/'
   image: studio_2-thumb.jpg
   text: "Learn about the artist"
 #
