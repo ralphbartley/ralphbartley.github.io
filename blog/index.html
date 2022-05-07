@@ -1,8 +1,13 @@
 ---
 layout: blog
 title: "Blog"
-teaser: "Here I'll post thoughts about jewelry making!"
+teaser: "Thoughts on jewelry making to come!"
 header:
     image_fullwidth: "banner.jpg"
 ---
-
+<div id="blog-index" class="row">
+	<div class="small-12 columns t30">
+		<h1>{{ page.title }}</h1>
+		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->

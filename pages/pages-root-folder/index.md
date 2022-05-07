@@ -10,18 +10,18 @@ header:
 widget1:
   title: "Blog"
   url: 'http://forgedbyadria.com/blog/'
-  image: studio_1-thumb.jpg
-  text: ''
+  image: studio_0-thumb.jpg
+  text: "Explore Adria's thoughts on jewelry making"
 widget2:
-  title: "Gallery"
+  title: "Jewelry Gallery"
   url: 'http://forgedbyadria.com/gallery/'
   image: gallery-thumb.jpg
-  text: ''
+  text: "Explore works Forged by Adria"
 widget3:
   title: "About"
   url: 'http://forgedbyadria.com/about/'
   image: studio_2-thumb.jpg
-  text: ''
+  text: "Learn about the artist"
 #
 # Use the call for action to show a button on the frontpage
 #
