@@ -1,0 +1,21 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Jewelry"
+  url: "/jewelry/"
+  side: left
+  dropdown:
+  - title: "Gallery"
+    url: "/jewelry/gallery/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

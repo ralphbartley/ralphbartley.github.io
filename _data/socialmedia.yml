@@ -1,0 +1,10 @@
+- name: Facebook
+  url: http://www.facebook.com/forgedbyadria
+  class: icon-facebook
+  title: ""
+
+
+- name: Instagram
+  url: http://instagram.com/forgedbyadria
+  class: icon-instagram
+  title: ""

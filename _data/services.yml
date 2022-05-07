@@ -1,0 +1,16 @@
+- name: "About"
+  url: "/about/"
+  title: "about"
+
+
+- name: "Gallery"
+  url: "/jewelry/"
+  title: "Jewelry Gallery"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"
