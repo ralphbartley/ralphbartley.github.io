@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner.jpg
+  image_fullwidth: banner_home2.jpg
 widget1:
   title: "Blog"
   url: 'https://forgedbyadria.com/blog/'
