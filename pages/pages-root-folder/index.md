@@ -9,17 +9,17 @@ header:
   image_fullwidth: banner.jpg
 widget1:
   title: "Blog"
-  url: 'http://ralphbartley.github.io/blog/'
+  url: 'http://forgedbyadria.com/blog/'
   image: studio_1-thumb.jpg
   text: ''
 widget2:
   title: "Gallery"
-  url: 'http://ralphbartley.github.io/jewelry/gallery/'
+  url: 'http://forgedbyadria.com/gallery/'
   image: gallery-thumb.jpg
   text: ''
 widget3:
   title: "About"
-  url: 'http://ralphbartley.github.io/about/'
+  url: 'http://forgedbyadria.com/about/'
   image: studio_2-thumb.jpg
   text: ''
 #
