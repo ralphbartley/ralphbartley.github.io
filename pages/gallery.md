@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 header:
    image_fullwidth: "banner.jpg"
-permalink: "/jewelry/gallery"
+permalink: "/gallery"
 title:  "Jewelry Gallery"
 teaser: "A collection of works Forged By Adria"
 

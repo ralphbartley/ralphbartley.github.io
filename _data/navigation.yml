@@ -2,12 +2,9 @@
   url: "/"
   side: left
 
-- title: "Jewelry"
-  url: "/jewelry/"
+- title: "Jewelry Gallery"
+  url: "/gallery/"
   side: left
-  dropdown:
-  - title: "Gallery"
-    url: "/jewelry/gallery/"
 
 - title: Blog
   url: "/blog/"
