@@ -4,7 +4,7 @@
 
 
 - name: "Gallery"
-  url: "/jewelry/"
+  url: "/gallery/"
   title: "Jewelry Gallery"
 
 - name: "Contact"
